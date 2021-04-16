@@ -16,6 +16,7 @@ setup(
     long_description = README,
     author = 'keselyoleren',
     author_email = 'keselyoleren@gmail.com',
+    long_description_content_type="text/markdown",
     install_requires=[
         'data-dummy',
     ],

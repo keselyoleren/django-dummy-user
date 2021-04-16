@@ -37,5 +37,5 @@ Delete all user
     $ python manage.py delete_all_users
 
 
-Source: https://www.github.com/joke2k/faker/
+Source: https://github.com/keselyoleren/django-dummy-user/
 

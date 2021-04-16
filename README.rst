@@ -7,7 +7,7 @@ Django generate data dummy user
 How to use
 ----------
 
-To install Django-faker you can use pip::
+To install django-dummy-user you can use pip::
 
     pip install django-dummy-user==0.1
 
